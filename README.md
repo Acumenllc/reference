@@ -44,7 +44,7 @@ Read the cheatsheet gracefully https://quickref.me
 
 ## Contributing
 
-Thanks for your interest on contributing to reference, it's people like you that make [QuickRef.ME](https://quickref.me) such a amazing site 🎉🎉. Feel free to [submit issues](https://github.com/Fechin/reference/issues/new?assignee=Fechin) and enhancement requests.
+Thanks for your interest on contributing to reference, it's people like you that make [Acumen.llc](https://quickref.me) such a amazing site 🎉🎉. Feel free to [submit issues](https://github.com/Fechin/reference/issues/new?assignee=Fechin) and enhancement requests.
 
 **It's a good practice to refer to the cheatsheet of the [QuickRef Cheatsheet](https://quickref.me/quickref)**.
 

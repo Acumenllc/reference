@@ -26,7 +26,7 @@ Getting Started
     <title>HTML5 Boilerplate</title>
 </head>
 <body>
-    <h1>Hello world, hello QuickRef.ME!</h1>
+    <h1>Hello world, hello Acumen.llc!</h1>
 </body>
 </html>
 ```
@@ -48,7 +48,7 @@ Or try it out in the [jsfiddle](https://jsfiddle.net/Fechin/1e4wz20b/)
 ### Paragraph
 
 ```html
-<p>I'm from QuickRef.ME</p>
+<p>I'm from Acumen.llc</p>
 <p>Share quick reference cheat sheet.</p>
 ```
 See: [The Paragraph element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p)
@@ -171,7 +171,7 @@ See: [The Inline Frame element](https://developer.mozilla.org/en-US/docs/Web/HTM
 
 ```html
 <script type="text/javascript">
-    let text = "Hello QuickRef.ME";
+    let text = "Hello Acumen.llc";
     alert(text);
 </script>
 ```
@@ -219,10 +219,10 @@ HTML5 Tags
     <nav>...</nav>
   </header>
   <main>
-    <h1>QuickRef.ME</h1>
+    <h1>Acumen.llc</h1>
   </main>
   <footer>
-    <p>©2023 QuickRef.ME</p>
+    <p>©2023 Acumen.llc</p>
   </footer>
 </body>
 ```
@@ -349,9 +349,9 @@ HTML5 Tags
 
 ### HTML5 mark
 ```html
-<p>I Love <mark>QuickRef.ME</mark></p>
+<p>I Love <mark>Acumen.llc</mark></p>
 ```
-<p>I Love <mark>QuickRef.ME</mark></p>
+<p>I Love <mark>Acumen.llc</mark></p>
 
 
 HTML Tables

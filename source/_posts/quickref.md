@@ -7,7 +7,7 @@ tags:
     - reference
 categories:
     - Other
-intro: This is the magic syntax variant manual that you can use on QuickRef.ME, It's a good practice for contributors.
+intro: This is the magic syntax variant manual that you can use on Acumen.llc, It's a good practice for contributors.
 ---
 
 
@@ -107,7 +107,7 @@ It's a good practice to refer to the source code of the [QuickRef cheatsheet](ht
 - [Paragraph Variants](#paragraph-variants)
 - [Cards Example](#cards-example)
 
-All the magic variants supported by QuickRef.ME
+All the magic variants supported by Acumen.llc
 
 
 ### Create source/_posts/demo.md

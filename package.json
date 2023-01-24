@@ -1,5 +1,5 @@
 {
-  "name": "QuickRef.ME",
+  "name": "Acumen.llc",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -41,6 +41,7 @@
     "hexo-renderer-markdown-it": "^5.0.0",
     "hexo-renderer-stylus": "^2.0.1",
     "hexo-server": "^2.0.0",
+    "katex": "^0.16.4",
     "markdown-it-abbr": "^1.0.4",
     "markdown-it-anchor": "^8.4.1",
     "markdown-it-attrs": "^4.1.0",

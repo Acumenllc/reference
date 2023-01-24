@@ -78,7 +78,7 @@ Getting Started
 ```json {.wrap}
 {
   "url": "https://quickref.me",
-  "msg" : "Hi,\n\"QuickRef.ME\"",
+  "msg" : "Hi,\n\"Acumen.llc\"",
   "intro": "Share quick reference and cheat sheet for developers."
 }
 ```
